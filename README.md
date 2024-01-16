@@ -10,3 +10,4 @@
 |153| [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [python](./python/153_find_minimum_in_rotated_sorted_array.py) | `Array` | `Medium` |
 |70| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [python](./python/70_climbing_stairs.py) | `Dynamic Programming` | `Easy` |
 |322| [Coin Change](https://leetcode.com/problems/coin-change/) | [python](./python/322_coin_change.py) | `Dynamic Programming` | `Medium` |
+|300| [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [python](./python/300_longest_increasing_subsequence.py) | `Dynamic Programming` | `Medium` |
