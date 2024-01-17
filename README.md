@@ -11,4 +11,4 @@
 |70| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [python](./python/70_climbing_stairs.py) | `Dynamic Programming` | `Easy` |
 |322| [Coin Change](https://leetcode.com/problems/coin-change/) | [python](./python/322_coin_change.py) | `Dynamic Programming` | `Medium` |
 |300| [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [python](./python/300_longest_increasing_subsequence.py) | `Dynamic Programming` | `Medium` |
-|1143| [LongestCommon Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [python](./python/1143_longest_common_subsequence.py) | `Dynamic Programming` | `Medium` |
+|1143| [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [python](./python/1143_longest_common_subsequence.py) | `Dynamic Programming` | `Medium` |
