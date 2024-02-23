@@ -15,3 +15,4 @@
 |139| [Word_Break](https://leetcode.com/problems/word-break/) | [python](./python/139_word_break.py) | `Dynamic Programming` | `Medium` |
 |377| [Combination Sum](https://leetcode.com/problems/combination-sum-iv/) | [python](./python/377_combination_sum_iv.py) | `Dynamic Programming` | `Medium` |
 |23| [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [python](./python/23_merge_k_sorted_lists.py) | `Heap` | `Hard` |
+|23| [top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements/) | [python](./python/347_top_k_frequent_elements.py) | `Heap` | `Medium` |
