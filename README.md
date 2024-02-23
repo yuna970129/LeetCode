@@ -14,4 +14,4 @@
 |1143| [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [python](./python/1143_longest_common_subsequence.py) | `Dynamic Programming` | `Medium` |
 |139| [Word_Break](https://leetcode.com/problems/word-break/) | [python](./python/139_word_break.py) | `Dynamic Programming` | `Medium` |
 |377| [Combination Sum](https://leetcode.com/problems/combination-sum-iv/) | [python](./python/377_combination_sum_iv.py) | `Dynamic Programming` | `Medium` |
-|23| [Merge K Sorted Lists](https://leetcode.com/problems//merge-k-sorted-lists/) | [python](./python/23_merge_k_sorted_lists.py) | `Heap` | `Hard` |
+|23| [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [python](./python/23_merge_k_sorted_lists.py) | `Heap` | `Hard` |
