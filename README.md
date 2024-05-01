@@ -18,3 +18,4 @@
 |23| [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [python](./python/23_merge_k_sorted_lists.py) | `Heap` | `Hard` |
 |347| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [python](./python/347_top_k_frequent_elements.py) | `Heap` | `Medium` |
 |295| [Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [python](./python/295_find_median_from_data_stream.py) | `Heap` | `Hard` |
+|73| [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/) | [python](./python/73_set_matrix_zeros.py) | `Matrix` | `Medium` |
