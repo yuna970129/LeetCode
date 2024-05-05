@@ -20,3 +20,4 @@
 |295| [Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [python](./python/295_find_median_from_data_stream.py) | `Heap` | `Hard` |
 |73| [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/) | [python](./python/73_set_matrix_zeroes.py) | `Matrix` | `Medium` |
 |54| [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [python](./python/54_spiral_matrix.py) | `Matrix` | `Medium` |
+|48| [Rotate Image](https://leetcode.com/problems/rotate-image/) | [python](./python/48_rotate_image.py) | `Matrix` | `Medium` |
