@@ -1,4 +1,7 @@
 # LeetCode
+
+https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
+
 |#| Problem | Solution | Category | Difficulty |
 |-| ------- | -------- | -------- | ---------- |
 |1| [Two Sum](https://leetcode.com/problems/two-sum/) |[python](./python/1_two_sum.py) | `Array` | `Easy` |
