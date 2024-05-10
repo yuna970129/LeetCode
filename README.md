@@ -25,3 +25,4 @@ https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questio
 |54| [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [python](./python/54_spiral_matrix.py) | `Matrix` | `Medium` |
 |48| [Rotate Image](https://leetcode.com/problems/rotate-image/) | [python](./python/48_rotate_image.py) | `Matrix` | `Medium` |
 |79| [Word Search](https://leetcode.com/problems/word-search/) | [python](./python/79_word_search.py) | `Matrix` | `Medium` |
+|3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [python](./python/3_longest_substring_without_repeating_characters.py) | `String` | `Medium` |
