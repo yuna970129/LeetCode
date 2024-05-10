@@ -1,4 +1,4 @@
-# The existing algorithm involves reconstructing the dictionary within the loop,
+# The following algorithm involves reconstructing the dictionary within the loop,
 # leading to a worst-case time complexity of O(n^2).
 
 # By using the sliding window approach, with start and end pointers,
