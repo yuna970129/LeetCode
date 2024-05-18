@@ -26,3 +26,4 @@ https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questio
 |48| [Rotate Image](https://leetcode.com/problems/rotate-image/) | [python](./python/48_rotate_image.py) | `Matrix` | `Medium` |
 |79| [Word Search](https://leetcode.com/problems/word-search/) | [python](./python/79_word_search.py) | `Matrix` | `Medium` |
 |3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [python](./python/3_longest_substring_without_repeating_characters.py) | `String` | `Medium` |
+|424| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [python](./python/424_longest_repeating_character_replacement.py) | `String` | `Medium` |
