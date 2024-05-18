@@ -28,4 +28,4 @@ https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questio
 |3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [python](./python/3_longest_substring_without_repeating_characters.py) | `String` | `Medium` |
 |424| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [python](./python/424_longest_repeating_character_replacement.py) | `String` | `Medium` |
 |242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [python](./python/242_valid_anagram.py) | `String` | `Easy` |
-|49| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [python](./python/49_group_anagrams.py) | `String` | `Medium` |
+|49| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [python](./python/49_group_anagrams.py) | `String` | `Medium` |
