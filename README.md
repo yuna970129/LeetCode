@@ -30,3 +30,6 @@ https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questio
 |242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [python](./python/242_valid_anagram.py) | `String` | `Easy` |
 |49| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [python](./python/49_group_anagrams.py) | `String` | `Medium` |
 |20| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [python](./python/20_valid_parentheses.py) | `String` | `Easy` |
+|125| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [python](./python/125_valid_palindrome.py) | `String` | `Easy` |
+|5| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [python](./python/5_longest_palindromic_substring.py) | `String` | `Medium` |
+|647| [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [python](./python/647_palindromic_substrings.py) | `String` | `Medium` |
