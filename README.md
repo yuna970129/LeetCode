@@ -33,3 +33,4 @@ https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questio
 |125| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [python](./python/125_valid_palindrome.py) | `String` | `Easy` |
 |5| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [python](./python/5_longest_palindromic_substring.py) | `String` | `Medium` |
 |647| [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [python](./python/647_palindromic_substrings.py) | `String` | `Medium` |
+|104| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [python](./python/104_maximum_depth_of_binary_tree.py) | `Tree` | `Easy` |
