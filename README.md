@@ -34,3 +34,7 @@ https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questio
 |5| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [python](./python/5_longest_palindromic_substring.py) | `String` | `Medium` |
 |647| [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [python](./python/647_palindromic_substrings.py) | `String` | `Medium` |
 |104| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [python](./python/104_maximum_depth_of_binary_tree.py) | `Tree` | `Easy` |
+|100| [Same Tree](https://leetcode.com/problems/same-tree/) | [python](./python/100_same_tree.py) | `Tree` | `Easy` |
+|226| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [python](./python/226_invert_binary_tree.py) | `Tree` | `Easy` |
+|102| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [python](./python/102_binary_tree_level_order_traversal.py) | `Tree` | `Medium` |
+|572| [Palindromic Substrings](https://leetcode.com/problems/subtree-of-another-tree/) | [python](./python/572_subtree_of_another_tree.py) | `Tree` | `Medium` |
