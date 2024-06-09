@@ -18,9 +18,6 @@ https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questio
 |139| [Word_Break](https://leetcode.com/problems/word-break/) | [python](./python/139_word_break.py) | `Dynamic Programming` | `Medium` |
 |377| [Combination Sum](https://leetcode.com/problems/combination-sum-iv/) | [python](./python/377_combination_sum_iv.py) | `Dynamic Programming` | `Medium` |
 |133| [Clone Graph](https://leetcode.com/problems/clone-graph/) | [python](./python/133_clone_graph.py) | `Graph` | `Medium` |
-|23| [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [python](./python/23_merge_k_sorted_lists.py) | `Heap` | `Hard` |
-|347| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [python](./python/347_top_k_frequent_elements.py) | `Heap` | `Medium` |
-|295| [Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [python](./python/295_find_median_from_data_stream.py) | `Heap` | `Hard` |
 |73| [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/) | [python](./python/73_set_matrix_zeroes.py) | `Matrix` | `Medium` |
 |54| [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [python](./python/54_spiral_matrix.py) | `Matrix` | `Medium` |
 |48| [Rotate Image](https://leetcode.com/problems/rotate-image/) | [python](./python/48_rotate_image.py) | `Matrix` | `Medium` |
@@ -38,3 +35,11 @@ https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questio
 |226| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [python](./python/226_invert_binary_tree.py) | `Tree` | `Easy` |
 |102| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [python](./python/102_binary_tree_level_order_traversal.py) | `Tree` | `Medium` |
 |572| [Palindromic Substrings](https://leetcode.com/problems/subtree-of-another-tree/) | [python](./python/572_subtree_of_another_tree.py) | `Tree` | `Medium` |
+|105| [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [python](./python/105_construct_binary_tree_from_preorder_and_inorder_traversal.py) | `Tree` | `Medium` |
+|230| [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [python](./python/230_kth_smallest_element_in_a_bst.py) | `Tree` | `Medium` |
+|235| [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [python](./python/235_lowest_common_ancestor_of_a_binary_search_tree.py) | `Tree` | `Medium` |
+|208| [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [python](./python/208_implement_trie_prefix_tree.py) | `Tree` | `Medium` |
+|211| [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [python](./python/211_design_add_and_search_words_data_structure.py) | `Tree` | `Medium` |
+|23| [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [python](./python/23_merge_k_sorted_lists.py) | `Heap` | `Hard` |
+|347| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [python](./python/347_top_k_frequent_elements.py) | `Heap` | `Medium` |
+|295| [Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [python](./python/295_find_median_from_data_stream.py) | `Heap` | `Hard` |
