@@ -11,6 +11,7 @@ https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questio
 |53| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [python](./python/53_maximum_subarray.py) | `Array` | `Medium` |
 |152| [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [python](./python/152_maximum_product_subarray.py) | `Array` | `Medium` |
 |153| [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [python](./python/153_find_minimum_in_rotated_sorted_array.py) | `Array` | `Medium` |
+|15| [3Sum](https://leetcode.com/problems/3sum/) | [python](./python/15_3sum.py) | `Array` | `Medium` |
 |70| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [python](./python/70_climbing_stairs.py) | `Dynamic Programming` | `Easy` |
 |322| [Coin Change](https://leetcode.com/problems/coin-change/) | [python](./python/322_coin_change.py) | `Dynamic Programming` | `Medium` |
 |300| [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [python](./python/300_longest_increasing_subsequence.py) | `Dynamic Programming` | `Medium` |
